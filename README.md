@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my data science portfolio, where I personally dive into data that I care about!
 
-You can use the [editor on GitHub](https://github.com/patrickban/patrickban.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Thanks for taking the time to stop by! From an early age, I was absolutely obsessed with watching sports, specifically basketball, football, and soccer. What I found absolutely fascinating, as much as the game itself, was the presentation of real-time statistics that attempted to paint the picture of how the game was going. Yes, I understand that there is much distain against the role that advanced analytics plays within the world of sports (ex. [Charles Barkley's infamous rant](https://youtu.be/NZf9NFaCQHQ?t=166) & [Bill Belichick's claim to have never used an analytics site](https://profootballtalk.nbcsports.com/2021/06/22/bill-belichick-once-again-claims-hes-not-a-fan-of-analytics/). But the outcome of sporting events are ultimately determined by a quantifiable result, so how much of the game can we quantify?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As I grew older, my interests expanded into the world of social causes, another topic I hope to explore. I've been very fortunate to have worked in professional settings where my job was to present gaps, inequities, and potential solutions to executives. I have aspirations to perform similar analysis on humanitarian issues that people across this country and this world face. One visualization that really inspired me to tackle this subject was a [chart produced by BBC/IHME](https://ichef.bbci.co.uk/news/976/cpsprodpb/F6DA/production/_101249136_optimised-chart8-nc.png), depicting the impact of the 1994 Rwandan Genocide on life expectancy.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patrickban/patrickban.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+These are two subjects that are on opposite ends of the spectrum that share a strong commonality, vast amounts of available data that can help inform and facilitate conversation. Think of me as a Nate Silver wannabe, minus the controversial tweeting :)
